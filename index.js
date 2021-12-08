@@ -16,4 +16,3 @@ function dividir(FirstValue,SecondValue){
     }
     return (range(FirstValue,SecondValue)).length
 }
-console.log(dividir(10,2))
